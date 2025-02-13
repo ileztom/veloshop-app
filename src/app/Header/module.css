@@ -1,0 +1,51 @@
+.header {
+    background-color: #f4f9e2;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 80px;
+}
+
+.logo {
+    width: 118px;
+    height: auto;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    gap: 70px;
+}
+
+.nav-item {
+    color: #000000;
+    font: 400 14px/1 ABeeZee, sans-serif;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-underline {
+    background-color: #f4f9e2;
+    height: 5px;
+    margin-top: 14px;
+}
+
+.contact-container {
+    margin-right: 200px;
+}
+
+.contact-button {
+    width: 150px;
+    height: auto;
+    border-radius: 50px;
+    align-items: center;
+}

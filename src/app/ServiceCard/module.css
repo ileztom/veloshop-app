@@ -1,0 +1,15 @@
+.service-cards {
+    display: flex;
+    width: 100%;
+}
+
+.service-card {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 126px 70px;
+    color: #ffffff;
+    font: 400 32px/1 ABeeZee, sans-serif;
+    letter-spacing: -0.19px;
+}

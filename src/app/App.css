@@ -1,0 +1,6 @@
+.velo-workshop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}

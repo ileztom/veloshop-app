@@ -1,0 +1,37 @@
+.about-section {
+    background-color: #f4f9e2;
+    display: flex;
+    padding: 85px 80px;
+    gap: 20px;
+}
+
+.about-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about-title {
+    font-size: 48px;
+    line-height: 1;
+    letter-spacing: -1.68px;
+    color: #22356f;
+    font-family: ABeeZee, sans-serif;
+    font-weight: 400;
+}
+
+.about-description {
+    font-size: 24px;
+    line-height: 43px;
+    color: #22356f;
+    font-family: ABeeZee, sans-serif;
+    font-weight: 400;
+    margin-top: 87px;
+}
+
+.about-image {
+    flex: 1;
+    object-fit: contain;
+    max-width: 50%;
+}
